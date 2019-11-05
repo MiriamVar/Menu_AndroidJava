@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu_AndroidJava</string>
+    <string name="item1">Capuccino</string>
+    <string name="item2">Ristreto</string>
+    <string name="item3">Flat Caffe</string>
+    <string name="centerText">Choose you coffee</string>
+    <string name="capp">Your Cappucino</string>
+    <string name="flat">Your Flat Latte</string>
+    <string name="rist">Your Ristreto</string>
+</resources>
